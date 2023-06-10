@@ -1,0 +1,40 @@
+.inp{
+    position: absolute;
+width: 200px;
+height: 15px;
+left: 52px;
+top: 127px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 109%;
+display: flex;
+align-items: center;
+
+color: #000000;
+margin: 28px;
+
+}
+.send{
+
+position: absolute;
+width: 120px;
+height: 48px;
+left: 456px;
+top: 147px;
+
+background: #833AE0;
+}
+.incl{
+    box-sizing: border-box;
+
+position: absolute;
+width: 374px;
+height: 48px;
+left: 52px;
+top: 147px;
+
+border: 1px solid #000000;
+text-align: center;
+}
