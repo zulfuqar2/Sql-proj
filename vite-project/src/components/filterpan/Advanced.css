@@ -1,0 +1,66 @@
+.box{
+   display: block;
+   justify-content: center;
+   align-items: center;
+
+
+
+}
+
+
+.filter {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 52px;
+    top: 205px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 109%;
+    /* or 15px */
+    
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+
+.box {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+select {
+  width: 374px;
+  height: 48px;
+  margin: 10px;
+border: 1px solid #000000;
+}
+.metal {
+  width: 374px;
+  height: 48px;
+
+  border: 1px solid #000000;
+}
+.price{
+width: 155px;
+height: 48px;
+left: 495px;
+top: 265px;
+margin: 10px;
+border: 1px solid #000000;
+font-size: 20px;
+}
+.year{
+    width: 155px;
+height: 48px;
+left: 495px;
+top: 265px;
+font-size: 20px;
+
+border: 1px solid #000000;
+}
